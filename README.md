@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">A software engineer from the Netherlands 🇳🇱</h3>
+<h3 align="center">Software engineer from the Netherlands 🇳🇱</h3>
 
 <br/>
 
@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:hasanbeylitogrul@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
