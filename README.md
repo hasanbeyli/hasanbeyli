@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on a **fintech project** at **</salt>** 
+ 🔭 I’m currently working on a **fintech project** at Salt Study
  
  🌱 I’m currently learning **Kubernetes, Linux, AWS**
 
