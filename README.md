@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Kubernetes, Linux, AWS**
 
-💬 Ask me about **Java, React, Azure... or anything [here]([(https://mail.yahoo.com/d/folders/1)])**
+💬 Ask me about **Java, React, Azure... or anything [here]([https://mail.yahoo.com/d/folders/1])**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
