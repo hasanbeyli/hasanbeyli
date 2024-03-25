@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a fintech project at ** <p></salt></p>
+ 🔭 I’m currently working on **a fintech project at ** <h3></salt></h3>
  
  🌱 I’m currently learning **Kubernetes, Linux, AWS**
 
