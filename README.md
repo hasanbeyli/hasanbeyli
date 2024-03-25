@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasanbeyli.hasanbeyli" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hasanbeyli.hasanbeyli"/>
 
 
 <h1 align="center">
