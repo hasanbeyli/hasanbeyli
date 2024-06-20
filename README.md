@@ -16,7 +16,7 @@
  
  🌱 I’m currently learning **Kubernetes, Linux, AWS**
 
-💬 Ask me about **Java, React, Azure... or anything [here]([https://mail.yahoo.com/d/folders/1])**
+💬 Ask me about **Java, React, Azure... or anything [here](https://mail.yahoo.com/d/folders/1)**
 
 📸 Truth fact about me, **My hobby is photography and I can prove that I am really great at it. See it instagram icon 😉**
 
