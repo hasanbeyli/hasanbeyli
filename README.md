@@ -6,7 +6,7 @@
 </h1>
 
 
-<h3 align="center">Software engineer from the Netherlands 🇳🇱</h3>
+<h3 align="center">Software Engineer from the Netherlands 🇳🇱</h3>
 
 <br/>
 
